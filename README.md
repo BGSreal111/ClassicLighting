@@ -17,7 +17,8 @@ Welcome to **Classic Lighting**, a mod that brings back the nostalgic vibes of *
 ## Screenshots
 
 ![Classic Lighting](screenshot1.png)
-![Before and After](screenshot2.png)
+![Before and After](![image](https://github.com/user-attachments/assets/ee7ea52d-7b22-4098-8408-2d878e02a5a6)
+)
 
 ## License and Legal Agreement
 
