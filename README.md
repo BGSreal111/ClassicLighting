@@ -10,7 +10,7 @@ Welcome to **Classic Lighting**, a mod that brings back the nostalgic vibes of *
 
 ## Installation
 
-1. Download the latest release from the [Releases](https://github.com/YourUsername/ClassicLighting/releases) section.
+1. Download the latest release from the [Releases]([https://github.com/YourUsername/ClassicLighting/releases](https://github.com/BGSreal111/ClassicLighting/releases/tag/GorillaTag)) section.
 2. Place the `.dll` file into your Gorilla Tag mods folder.
 3. Launch Gorilla Tag and enjoy the classic look!
 
